@@ -1,0 +1,7 @@
+0 DirtRoad
+1 Forest
+2 Indust
+3 Road
+4 Steppe
+5 Water
+6 Yard
